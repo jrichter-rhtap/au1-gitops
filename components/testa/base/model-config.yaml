@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: testa-model-config
 data:
-  MODEL_ENDPOINT: "https://9d08-94-112-170-125.ngrok-free.app"
+  MODEL_ENDPOINT: "https://2870-94-112-170-125.ngrok-free.app"
   MODEL_NAME: ""
